@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.start-button {
+  cursor: pointer;
+  font-size: 32px;
+  border-radius: 6px;
+  color: #ff8420;
+  border: none;
+  padding: 5px 20px;
+  background-color: #0f7d8b;
+}
